@@ -15,6 +15,7 @@ const TAB_DATA = [
         <li>Python</li>
         <li>JavaScript</li>
         <li>React</li>
+        <li>s</li>
       </ul>
     ),
   },
